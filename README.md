@@ -135,9 +135,10 @@ pip install fastapi uvicorn opencv-python numpy ultralytics
 
 ---
 
-## 📷 Example Display (Optional)
+## 📷 Example Display 
 
-> You may include before/after images here to showcase the detection results.
+<img width="896" height="1920" alt="2" src="https://github.com/user-attachments/assets/a236dabe-2b1d-45d5-ac5a-e211587bd84c" />
+
 
 ---
 
