@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <title>图片检测</title>
+</head>
+
+<body>
+    <img src="/static/logo.png" alt="宁波数字孪生（东方理工）研究院" style="width: 320px; height: auto;">
+    <h1>上传图片进行目标检测</h1>
+    <form action="/detect/" method="post" enctype="multipart/form-data">
+        <input type="file" name="files" multiple>
+        <input type="submit" value="上传">
+    </form>
+</body>
+
+</html>    
